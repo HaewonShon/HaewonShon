@@ -1,16 +1,15 @@
-<div align="center">
- 
-  # Haewon's github
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- 
+  # Haewon's Github
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
 
-가능한 한 매일 알고리즘 문제를 풀고 있습니다.
-소소하게 프로젝트 및 문제풀이를 기록하고 있습니다.
 
-### [Solved.ac 프로필](https://solved.ac/profile/hachi557)
+### Solved.ac
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hachi557&theme=cold)
 
 ### Recent Project
+[아무튼 자랐쥬?](https://github.com/Caffe1neDev/realtimefarm) [Unity, C#]
+
 [The LightSeeker](https://github.com/Froute99/TheLightSeeker) [UE5, C++]
 
+### 📫 연락처
+📧 haewon.shon@email.com  
 </div>
